@@ -1,0 +1,31 @@
+body{
+    background:lightgrey;
+}
+
+#top-banner{
+    text-align: center;
+    color:dodgerblue;
+    font-size: 5rem;
+    
+}
+
+.img-group{
+    justify-items: center;
+    
+    
+}
+
+#click-on-rock{
+    height: 8rem;
+    margin:2rem;
+}
+
+#click-on-paper{
+    height: 10rem;
+    margin:2rem;
+}
+
+#click-on-scissors{
+    height: 10rem;
+    margin:2rem;
+}
